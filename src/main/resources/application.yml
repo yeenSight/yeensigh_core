@@ -9,4 +9,4 @@ spring:
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
 yeensight:
   topics:
-    insight-created: insight.created
+    event-created: event.created
